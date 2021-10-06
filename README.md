@@ -24,4 +24,4 @@ python3 SecFuzzer.py
 # Thanks
 
 
-[!] The Dark Raver
+[ ! ]  The Dark Raver
