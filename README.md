@@ -14,7 +14,9 @@ coded by  3rr0r-404
 # Install
 
 git clone https://github.com/3rr0r-4O4/SecFuzzer/
+
 cd SecFuzzer
+
 python3 SecFuzzer.py
 
 
