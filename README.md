@@ -8,9 +8,9 @@ coded by  3rr0r-404
 # Screenshot
 
 <p align="center"><img alt="https://raw.githubusercontent.com/3rr0r-4O4/SecFuzzer/main/dirfuzzer.png" width="500px" src="https://raw.githubusercontent.com/3rr0r-4O4/SecFuzzer/main/dirfuzzer.png" /></p>
-#Install
+# Install
 git clone 
 cd SecFuzzer
 python3 SecFuzzer.py
-#Thanks
+# Thanks
 [!] The Dark Raver
