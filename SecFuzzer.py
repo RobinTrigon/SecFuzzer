@@ -33,7 +33,7 @@ for i in range(2000):
 	
 	response = requests.get(surl)
 	#print (response)
-	if (response.status_code == 200):
+	if (response.status_code == 200,403):
 		print ("[+] found :- ",surl)
 		write(word)
 	else:	
