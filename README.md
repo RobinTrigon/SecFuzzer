@@ -7,7 +7,7 @@ coded by  3rr0r-404
 
 # Screenshot
 
-<p align="center"><img alt="https://raw.githubusercontent.com/3rr0r-4O4/SecFuzzer/main/dirfuzzer.png" width="395px" src="https://raw.githubusercontent.com/3rr0r-4O4/SecFuzzer/main/dirfuzzer.png" /></p>
+<p align="center"><img alt="https://raw.githubusercontent.com/3rr0r-4O4/SecFuzzer/main/dirfuzzer.png" width="500px" src="https://raw.githubusercontent.com/3rr0r-4O4/SecFuzzer/main/dirfuzzer.png" /></p>
 #Install
 git clone 
 cd SecFuzzer
