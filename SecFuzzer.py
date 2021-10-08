@@ -42,7 +42,7 @@ wordlist = input("\033[92m[!] Enter wordlists : ")
 
 
 def write(word):
-	f1 = open("write1.txt","a")
+	f1 = open("success-wordlist.txt","a")
 	f1.write(word +"\n")
 	
 fo = open(wordlist,"r+")
