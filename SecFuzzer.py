@@ -53,7 +53,7 @@ for i in range(2000):
 	
 	response = requests.get(surl)
 	#print (response)
-	if (response.status_code == 200,403):
+	if (response.status_code == 200,403,401,402):
 		print ("\033[91m[!] Found---> ",surl)
 		write(word)
 
